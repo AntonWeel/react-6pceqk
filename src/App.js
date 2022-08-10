@@ -13,7 +13,7 @@ import WalletConnectProvider from "@walletconnect/web3-provider";
 import WalletLink from "walletlink";
 import Web3 from 'web3';
 import { createAlchemyWeb3 } from '@alch/alchemy-web3';
-import Connectchain from './Chainconnect/connectchain'
+
 
 
 var account = null;
